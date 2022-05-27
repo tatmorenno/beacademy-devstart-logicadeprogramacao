@@ -1,0 +1,14 @@
+2) Exemplo trocar lâmpada queimada:
+
+- Desligue o interruptor de energia da lâmpada 
+- Pegue uma escada
+- Suba na escada embaixo do bocal que terá a lâmpada substituída
+- Desenrosque a lâmpada queimada
+- Desça a escada
+- Coloque a lâmpada queimada em local seguro
+- Pegue a lâmpada nova
+- Suba na escada próximo ao bocal que terá a futura lâmpada
+- Enrosque a nova lâmpada
+- Desça da escada
+- Ligue o interruptor de energia da lâmpada 
+- Guarde a escada

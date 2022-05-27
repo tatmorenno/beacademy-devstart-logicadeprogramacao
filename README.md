@@ -128,7 +128,8 @@
 
 <br> <br>
 
-## Exercícios Bônus:
+## 👩🏻‍💻 Exercícios Bônus:
+**Exercícios exemplo de raciocínio lógico**
 ### 1. Faça um algoritmo para efetuar a troca de um pneu furado:
 
 [Exercício Bônus 01](https://)
@@ -139,31 +140,3 @@
 [Exercício Bônus 02](https://)
 
 ## =======
-
-**Exercícios exemplo de raciocínio lógico**
-
-1) Descubra a lógica e complete o próximo elemento (GOUVEIA, 2022):
-
-a) 1, 3, 5, 7, **9** <br>
-b) 2, 4, 8, 16, 32, 64, **128** <br>
-c) 0, 1, 4, 9, 16, 25, 36, **49** <br>
-d) 4, 16, 36, 64, **100** <br>
-e) 1, 1, 2, 3, 5, 8, **13** <br>
-f) 2, 10, 12, 16, 17, 18, 19, **200**
-
-
-
-2) Exemplo trocar lâmpada queimada:
-
-- Desligue o interruptor de energia da lâmpada 
-- Pegue uma escada
-- Suba na escada embaixo do bocal que terá a lâmpada substituída
-- Desenrosque a lâmpada queimada
-- Desça a escada
-- Coloque a lâmpada queimada em local seguro
-- Pegue a lâmpada nova
-- Suba na escada próximo ao bocal que terá a futura lâmpada
-- Enrosque a nova lâmpada
-- Desça da escada
-- Ligue o interruptor de energia da lâmpada 
-- Guarde a escada
