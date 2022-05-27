@@ -128,14 +128,14 @@
 
 <br> <br>
 
-## 👩🏻‍💻 Exercícios Bônus:
-**Exercícios exemplo de raciocínio lógico**
-### 1. Faça um algoritmo para efetuar a troca de um pneu furado:
+## 👩🏻‍💻 Exercícios Bônus: <br><br>
+
+### 1. Exercícios exemplo de raciocínio lógico:
 
 [Exercício Bônus 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercises/B%C3%B4nus/bonus01.txt)
 
 
-### 2. Faça um algoritmo para efetuar a troca de um pneu furado:
+### 2. Faça um algoritmo para efetuar a troca de uma lâmpada queimada:
 
 [Exercício Bônus 02](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercises/B%C3%B4nus/bonus02.txt)
 
