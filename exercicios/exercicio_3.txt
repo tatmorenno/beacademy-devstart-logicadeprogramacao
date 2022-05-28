@@ -1,0 +1,15 @@
+programa {
+	funcao inicio() {
+		cadeia nome
+		real peso, altura, imc
+		escreva("Digite o seu nome:")
+		leia(nome)
+		escreva("Digite a sua altura:")
+		leia(altura)
+		escreva("Agora digite o seu peso:")
+		leia(peso)
+		imc = peso/(altura*altura)
+		escreva("Olá, ", nome, "! A sua altura é: ", altura, " o seu peso é de: ", peso, "kg e o seu IMC atual é: ", imc)
+
+	}
+}

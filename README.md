@@ -11,7 +11,7 @@
 💻 [Exercício 02](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_2.txt)
 
 ### 03 Exercício:
-### Faça um algoritmo para efetuar a troca de um pneu furado:
+### Faça um algoritmo que receba nome, peso e altura para calcular o IMC de uma pessoa:
 
 💻 [Exercício 03](https://)
 

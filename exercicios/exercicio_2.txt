@@ -14,7 +14,7 @@ programa {
 // ======
 // No VisuAlg
 
-Algoritmo "Exibe Nome e Endereço"
+Algoritmo "ExibeNomeEndereço"
 var nome : caractere
 var endereço : caractere
 
