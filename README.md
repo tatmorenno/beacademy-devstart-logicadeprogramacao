@@ -5,9 +5,9 @@
 
 💻 [Exercício 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_1.txt)
 
-## 02 Exercício:
+## 02 Solicite nome, endereço e imprima na tela:
  
-💻 [Exercício 02](https://)
+💻 [Exercício 02](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_2.txt)
 
 ## 03 Exercício:
 ### Faça um algoritmo para efetuar a troca de um pneu furado:

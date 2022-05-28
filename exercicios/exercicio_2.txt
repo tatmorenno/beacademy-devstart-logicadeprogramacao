@@ -1,0 +1,28 @@
+// No Portugol
+
+programa {
+	funcao inicio() {
+		cadeia nome, endereco
+	    	escreva("Digite o seu nome:")
+		leia(nome)
+		escreva("Bem vind@, ", nome, "! Digite aqui o seu endereço: ")
+		leia(endereco)
+		escreva("O endereço de ", nome, " é: ", endereco, ". Obrigad@!")
+	}
+}
+
+// ======
+// No VisuAlg
+
+Algoritmo "Exibe Nome e Endereço"
+var nome : caractere
+var endereço : caractere
+
+Inicio
+	escreva("Digite seu nome:")
+	leia(nome)
+	escreva("Seja bem-vind@, " + nome + "! Digite aqui o seu endereço: ")
+	leia(endereco)
+	escreva("O endereço de " + nome + " é: " + endereço + ". Obrigad@!")
+
+Fimalgoritmo
