@@ -11,9 +11,9 @@
 
 💻 [Exercício 03: Recebe nome, peso, altura e calcula IMC](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_3.txt)
 
-💻 [Exercício 04](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_4.ALG)
+💻 [Exercício 04: Recebe nome e idade de uma pessoa e faz análises booleanas](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_4.ALG)
 
-💻 [Exercício 05](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_5.ALG)
+💻 [Exercício 05: Recebe um valor do usuário e atualiza o saldo](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_5.ALG)
 
 💻 [Exercício 06](https://)
 
