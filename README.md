@@ -13,7 +13,7 @@
 ## 03 Exercício:
 ### Faça um algoritmo que receba nome, peso e altura para calcular o IMC de uma pessoa:
 
-💻 [Exercício 03](https://)
+💻 [Exercício 03](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_4.txt)
 
 ## 04 Exercício:
 ### Faça um algoritmo para efetuar a troca de um pneu furado:
