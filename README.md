@@ -3,7 +3,7 @@
 ## 01 Exercício:
 ### Faça um algoritmo para efetuar a troca de um pneu furado:
 
-💻 [Exercício 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/exercicios/exercicio_1.txt)
+💻 [Exercício 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_1.txt)
 
 ## 02 Exercício:
  
