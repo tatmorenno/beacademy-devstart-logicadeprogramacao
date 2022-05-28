@@ -1,0 +1,29 @@
+1. Faça um algoritmo para efetuar a troca de um pneu furado:
+
+
+- Estacionar o carro no acostamento
+- Desligar o carro ou ligar o pisca alerta do carro
+- Sair do carro
+- Sinalizar a via
+- Abrir o porta-malas
+- Pegar o estepe
+- Pegar os materiais necessários para a troca do pneu
+- Pegue a chave de roda
+- Conecte a chave na roda e gire no sentido anti-horário
+- Desprenda parcialmente os parafusos
+- Ponha o macaco sob a lataria do carro ao lado do pneu a ser substituído
+- Encaixe o macaco na canaleta
+- Levante o macaco até que ele segure o carro em altura suficiente
+- Termine de desenroscar os parafusos
+- Retire o pneu danificado
+- Coloque o pneu danificado sob o veículo
+- Ponha o estepe do pneu novo no eixo
+- Deixe o aro do estepe alinhado às cavidades dos parafusos
+- Encaixe os parafusos com as mãos
+- Aperte os parafusos ao máximo com a chave de roda
+- Termine de descer o carro
+- Retire o macaco
+- Retire o pneu danificado debaixo do carro
+- Coloque o pneu antigo no porta-malas
+- Leve o antigo pneu para um bom borracheiro
+- Obtenha um novo pneu reserva no porta-malas

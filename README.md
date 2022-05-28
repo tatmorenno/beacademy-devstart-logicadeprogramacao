@@ -3,11 +3,10 @@
 ## 01 Exercício:
 ### Faça um algoritmo para efetuar a troca de um pneu furado:
 
-💻 [Exercício 01](https://)
+💻 [Exercício 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/exercicios/exercicio_1.txt)
 
 ## 02 Exercício:
-### Faça um algoritmo para efetuar a troca de um pneu furado:
-
+ 
 💻 [Exercício 02](https://)
 
 ## 03 Exercício:
@@ -132,11 +131,11 @@
 
 ### 1. Exercícios exemplo de raciocínio lógico:
 
-[Exercício Bônus 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercises/B%C3%B4nus/bonus01.txt)
+[Exercício Bônus 01](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus01.txt)
 
 
 ### 2. Faça um algoritmo para efetuar a troca de uma lâmpada queimada:
 
-[Exercício Bônus 02](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercises/B%C3%B4nus/bonus02.txt)
+[Exercício Bônus 02](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus02.txt)
 
 ## =======
