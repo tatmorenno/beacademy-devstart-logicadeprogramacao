@@ -17,7 +17,7 @@
 
 💻 [Exercício 06: Recebe uma idade e informa a faixa etária do usuário](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_6.txt)
 
-💻 [Exercício 07](https://)
+💻 [Exercício 07: Usuário realiza saque ou depósito e o programa atualiza o saldo](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_7.txt)
 
 💻 [Exercício 08](https://)
 
