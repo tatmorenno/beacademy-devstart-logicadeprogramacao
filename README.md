@@ -15,7 +15,7 @@
 
 💻 [Exercício 05: Recebe um valor do usuário e atualiza o saldo](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_5.ALG)
 
-💻 [Exercício 06](https://)
+💻 [Exercício 06: Recebe uma idade e informa a faixa etária do usuário](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_6.txt)
 
 💻 [Exercício 07](https://)
 
