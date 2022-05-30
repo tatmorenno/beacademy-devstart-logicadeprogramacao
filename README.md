@@ -35,26 +35,6 @@
 
 💻 [Exercício 15: Tabuada com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_15.txt)
 
-💻 [Exercício 16: ](https://)
-
-💻 [Exercício 17: ](https://)
-
-💻 [Exercício 18: ](https://)
-
-💻 [Exercício 19: ](https://)
-
-💻 [Exercício 20: ](https://)
-
-💻 [Exercício 21: ](https://)
-
-💻 [Exercício 22: ](https://)
-
-💻 [Exercício 23: ](https://)
-
-💻 [Exercício 24: ](https://)
-
-💻 [Exercício 25: ](https://)
-
 <br>
 
 ## 👩🏻‍💻 Exercícios Bônus: <br><br>
