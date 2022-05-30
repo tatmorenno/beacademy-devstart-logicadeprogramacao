@@ -1,0 +1,36 @@
+programa {
+	funcao inicio() {
+	    inteiro operacao
+	    real resultado, valor1, valor2
+	    
+	    escreva("*========================================*\n")
+	    escreva("*==============CALCULADORA===============*\n")
+	    escreva("*========================================*\n")
+		escreva("Digite a operação desejada: (1) Adição\t (2) Subtração\t (3) Multiplicação\t (4) Divisão\t")
+		leia(operacao)
+		escreva("Digite o primeiro valor: ")
+		leia(valor1)
+		escreva("Digite o segundo valor: ")
+		leia(valor2)
+		limpa()
+		
+		escolha (operacao) {
+		    caso 1:
+		    escreva("O resultado da soma é: ",valor1 + valor2)
+		    pare
+		    caso 2:
+		    escreva("O resultado da subtração é: ",valor1 - valor2)
+		    pare
+		    caso 3:
+		    escreva("O resultado da multiplicação é: ",valor1 * valor2)
+		    pare
+		    caso 4:
+		    escreva("O resultado da divisão é: ",valor1 / valor2)
+		    pare
+		    caso contrario:
+		    escreva("Opção inválida")
+		    
+		}
+		
+	}
+}
