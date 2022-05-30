@@ -1,0 +1,60 @@
+programa {
+	funcao inicio() {
+		caracter operacao
+		cadeia conta, banco
+		inteiro valorInicial, agencia, operacaoQtde, limite
+		real valor
+		
+		escreva("Bem-vind@ ao TatiBank!\n")
+		escreva("Quantas transações você deseja realizar? ")
+		leia(limite)
+		
+		para (operacaoQtde = 1; operacaoQtde <= limite; operacaoQtde++) {
+		    escreva("\nDigite D para Depósito; S para Saque ou T para Transferência: ")
+		    leia(operacao)
+    		valorInicial = 100
+    		limpa()
+    		escolha (operacao) {
+        		caso 'D':
+        		    escreva("==================================\n")
+        		    escreva("Digite o valor a ser depositado: ")
+        		    leia(valor)
+        		    escreva("Depósito efetuado com sucesso! ")
+        		    escreva("o seu saldo inicial era: ",valorInicial,"\nOperação realizada: Depósito")
+        		    escreva("\nO seu saldo atual é de: ", valorInicial+valor)
+        		    escreva("\n==================================")
+        		    pare
+        		    
+    		    caso 'S':
+        		    escreva("==================================\n")
+        		    escreva("Digite o valor do saque: ")
+        		    leia(valor)
+        		    escreva("Saque efetuado com sucesso! ")
+        		    escreva("o seu saldo inicial era: ",valorInicial)
+        		    escreva("\nO seu saldo atual é de: ", valorInicial-valor,"\nOperação realizada: Saque")
+        		    escreva("\n==================================")
+        		    pare
+    			caso 'T':
+        		    escreva("==================================\n")
+        		     escreva("Digite o nome do banco: ")
+        		    leia(banco)
+        		     escreva("Digite o número da agência: ")
+        		    leia(agencia)
+        		     escreva("Digite o número da conta com dígito: ")
+        		    leia(conta)
+        		    escreva("Digite o valor da transferência: ")
+        		    leia(valor)
+        		    limpa()
+        		    escreva("Transferência efetuada com sucesso! ")
+        		    escreva("\nO seu saldo inicial era: ",valorInicial)
+        		    escreva("\nO seu saldo atual é de: ", valorInicial-valor,"\n")
+        		    escreva("\nDepósito ao banco: [",banco,"]\n")
+        		    escreva("Operação realizada: Transferência\tAgência: ",agencia," Conta: ",conta)
+        		    escreva("\n==================================")
+        		    pare
+        		caso contrario:
+        		    escreva("Opção inválida! Digite D, S ou T.")
+		    }
+		}
+	}
+}

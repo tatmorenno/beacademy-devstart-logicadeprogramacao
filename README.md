@@ -25,35 +25,35 @@
 
 💻 [Exercício 10: Depósito, Saque ou Transferência](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_10.txt)
 
-💻 [Exercício 11: Tabuada com laço for](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_11.txt)
+💻 [Exercício 11: Tabuada com laço para (for)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_11.txt)
 
 💻 [Exercício 12: Múltiplos de dois com laço para (for)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_12.txt)
 
-💻 [Exercício 13: Múltiplos de três com laço para (for)](https://)
+💻 [Exercício 13: Múltiplos de três com laço para (for)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_13.txt)
 
-💻 [Exercício 14](https://)
+💻 [Exercício 14: Depósito, Saque ou Transferência quantas vezes o usuário quiser](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_14.txt)
 
-💻 [Exercício 15](https://)
+💻 [Exercício 15: ](https://)
 
-💻 [Exercício 16](https://)
+💻 [Exercício 16: ](https://)
 
-💻 [Exercício 17](https://)
+💻 [Exercício 17: ](https://)
 
-💻 [Exercício 18](https://)
+💻 [Exercício 18: ](https://)
 
-💻 [Exercício 19](https://)
+💻 [Exercício 19: ](https://)
 
-💻 [Exercício 20](https://)
+💻 [Exercício 20: ](https://)
 
-💻 [Exercício 21](https://)
+💻 [Exercício 21: ](https://)
 
-💻 [Exercício 22](https://)
+💻 [Exercício 22: ](https://)
 
-💻 [Exercício 23](https://)
+💻 [Exercício 23: ](https://)
 
-💻 [Exercício 24](https://)
+💻 [Exercício 24: ](https://)
 
-💻 [Exercício 25](https://)
+💻 [Exercício 25: ](https://)
 
 <br>
 
