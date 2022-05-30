@@ -19,7 +19,7 @@
 
 💻 [Exercício 07: Usuário realiza saque ou depósito e o programa atualiza o saldo](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_7.txt)
 
-💻 [Exercício 08](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_8.txt)
+💻 [Exercício 08: Calculadora básica](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_8.txt)
 
 💻 [Exercício 09](https://)
 
