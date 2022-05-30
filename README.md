@@ -27,9 +27,9 @@
 
 💻 [Exercício 11: Tabuada com laço for](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_11.txt)
 
-💻 [Exercício 12: Múltiplos de dois laço for](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_12.txt)
+💻 [Exercício 12: Múltiplos de dois com laço para (for)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_12.txt)
 
-💻 [Exercício 13](https://)
+💻 [Exercício 13: Múltiplos de três com laço para (for)](https://)
 
 💻 [Exercício 14](https://)
 

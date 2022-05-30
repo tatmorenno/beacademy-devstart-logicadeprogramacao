@@ -1,0 +1,12 @@
+programa {
+	funcao inicio() {
+	    inteiro multiplos, numeros
+	    
+	    escreva("Digite um número com dois dígitos e mostrarei os múltiplos de três até eles: ")
+	    leia(numeros)
+	    limpa()
+		para (multiplos = 0; multiplos <= numeros; multiplos++)
+		se (multiplos %3 == 0)
+		escreva(multiplos,"\n")
+	}
+}
