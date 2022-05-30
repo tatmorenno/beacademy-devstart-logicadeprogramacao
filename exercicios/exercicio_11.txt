@@ -1,0 +1,15 @@
+programa {
+	funcao inicio() {
+		inteiro tabuada, t
+		
+		escreva("Informe o número da tabuada: ")
+		leia(tabuada)
+		limpa()
+		escreva("Let's go tabuada de: ",tabuada,"\n")
+		
+		para (t = 1; t <= 10; t++) {
+		    escreva(tabuada," x ",t," = ",tabuada*t,"\n")
+		    
+		}
+	}
+}

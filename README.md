@@ -25,7 +25,7 @@
 
 💻 [Exercício 10: Depósito, Saque ou Transferência](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_10.txt)
 
-💻 [Exercício 11](https://)
+💻 [Exercício 11: Tabuada com laço for](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_10.txt)
 
 💻 [Exercício 12](https://)
 
