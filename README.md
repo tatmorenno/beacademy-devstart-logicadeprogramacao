@@ -33,7 +33,7 @@
 
 💻 [Exercício 14: Depósito, Saque ou Transferência quantas vezes o usuário quiser](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_14.txt)
 
-💻 [Exercício 15: ](https://)
+💻 [Exercício 15: Tabuada com laço faça enquanto (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_15.txt)
 
 💻 [Exercício 16: ](https://)
 
