@@ -1,0 +1,9 @@
+programa {
+	funcao inicio() {
+	    inteiro multiplos
+	    
+		para (multiplos = 0; multiplos <= 100; multiplos++)
+		se (multiplos %2 == 0)
+		escreva(multiplos,"\n")
+	}
+}

@@ -27,7 +27,7 @@
 
 💻 [Exercício 11: Tabuada com laço for](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_10.txt)
 
-💻 [Exercício 12](https://)
+💻 [Exercício 12: Múltiplos de dois laço for](https://)
 
 💻 [Exercício 13](https://)
 
