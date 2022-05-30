@@ -21,7 +21,7 @@
 
 💻 [Exercício 08: Calculadora básica](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_8.txt)
 
-💻 [Exercício 09](https://)
+💻 [Exercício 09: Calculadora Geométrica](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_9.txt)
 
 💻 [Exercício 10](https://)
 
