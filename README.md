@@ -23,7 +23,7 @@
 
 💻 [Exercício 09: Calculadora Geométrica](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_9.txt)
 
-💻 [Exercício 10](https://)
+💻 [Exercício 10: Depósito, Saque ou Transferência](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_10.txt)
 
 💻 [Exercício 11](https://)
 
