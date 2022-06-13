@@ -36,6 +36,8 @@
 💻 [Exercício 15: Tabuada com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_15.txt)
 
 💻 [Exercício 16: Tabuada com laço faça enquanto (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_16.txt)
+
+💻 [Exercício 17: Verifica usuário no laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_16.txt)
 <br>
 
 ## 👩🏻‍💻 Exercícios Bônus: <br><br>

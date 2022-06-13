@@ -1,0 +1,25 @@
+programa {
+	funcao inicio() {
+		cadeia nome, senha
+		escreva("Digite o seu nome: ")
+		    leia(nome)
+		    escreva("Digite a sua senha: ")
+		    leia(senha)
+		
+		enquanto (nome != "Marcos") {
+		    escreva("Digite os seus dados novamente!\n")
+		    escreva("Digite o seu nome: ")
+		    leia(nome)
+		    escreva("Digite a sua senha: ")
+		    leia(senha)
+		    
+		}
+		enquanto (senha != "paylivre") {
+		    escreva("Digite a sua senha novamente!\n")
+		    escreva("Digite a sua senha: ")
+		    leia(senha)
+		}
+		
+		escreva("Seja, bem-vindo, ",nome,"!")
+	}
+}
