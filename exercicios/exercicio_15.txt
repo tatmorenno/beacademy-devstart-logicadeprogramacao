@@ -1,18 +1,13 @@
 programa {
 	funcao inicio() {
-		inteiro tabuada, t
 		
-		escreva("Informe o número da tabuada: ")
+		inteiro i, tabuada
+		i = 0
+		escreva("Digite a tabuada desejada: ")
 		leia(tabuada)
-		limpa()
-		escreva("Let's go tabuada de: ",tabuada,"\n")
-		t = 1
-		
-		faca {
-		    escreva(tabuada," x ",t," = ",tabuada*t,"\n")
-		    t++
+		enquanto (i < 11) {
+		    escreva(tabuada," x ",i," = ",i * tabuada,"\n")
+		    i++
 		}
-		
-		enquanto (t <= 10)
 	}
 }

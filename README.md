@@ -35,6 +35,7 @@
 
 💻 [Exercício 15: Tabuada com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_15.txt)
 
+💻 [Exercício 16: Tabuada com laço faça enquanto (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_16.txt)
 <br>
 
 ## 👩🏻‍💻 Exercícios Bônus: <br><br>
@@ -43,4 +44,3 @@
 
 [Exercício Bônus 02: Troca de lâmpada queimada](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus02.txt)
 
-## =======
