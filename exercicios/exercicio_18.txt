@@ -1,0 +1,35 @@
+programa {
+	funcao inicio() {
+	    real resultado, valor1, valor2
+	    caracter continuar
+	    
+	    escreva("*========================================*\n")
+	    escreva("*==============CALCULADORA===============*\n")
+	    escreva("*========================================*\n")
+		    escreva("Deseja realizar alguma operação?\n")
+		    escreva("Digite S para SIM e N para NÃO: ")
+		    leia(continuar)
+		    limpa()
+		    
+		enquanto (continuar == 'S') {
+		escreva("Digite o primeiro valor: ")
+		leia(valor1)
+		escreva("Digite o segundo valor: ")
+		leia(valor2)
+		limpa()
+		
+		    escreva("O resultado da soma é: ",valor1 + valor2)
+		    
+		    escreva("\nO resultado da subtração é: ",valor1 - valor2)
+		    
+		    escreva("\nO resultado da multiplicação é: ",valor1 * valor2)
+		   
+		    escreva("\nO resultado da divisão é: ",valor1 / valor2)
+		    
+		    escreva("\n\nDeseja realizar mais alguma operação?")
+		    escreva("\nDigite S para SIM e N para NÃO: ")
+		    leia(continuar)
+		    limpa()
+		}
+	}
+}
