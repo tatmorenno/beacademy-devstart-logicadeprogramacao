@@ -41,9 +41,6 @@
 
 💻 [Exercício 18: Operações matemáticas com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
 
-💻 [Exercício 19: Decremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
-
-💻 [Exercício 20: Incremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
 <br>
 
 ## 👩🏻‍💻 Exercícios Bônus: <br><br>
@@ -52,3 +49,6 @@
 
 [Exercício Bônus 02: Troca de lâmpada queimada](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus02.txt)
 
+[Exercício Bônus 03: Incremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus03.txt)
+
+[Exercício Bônus 04: Decremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/B%C3%B4nus/bonus04.txt)
