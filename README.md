@@ -39,8 +39,11 @@
 
 💻 [Exercício 17: Verifica usuário no laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_17.txt)
 
-💻 [Exercício 18: Operações com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
+💻 [Exercício 18: Operações matemáticas com laço enquanto (while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
 
+💻 [Exercício 19: Decremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
+
+💻 [Exercício 20: Incremento com laço faça enquanto / repita até (do while)](https://github.com/tatmorenno/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio_18.txt)
 <br>
 
 ## 👩🏻‍💻 Exercícios Bônus: <br><br>
